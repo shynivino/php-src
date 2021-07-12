@@ -1,4 +1,4 @@
- 1. libmagic (ext/fileinfo) see ext/fileinfo/libmagic/LICENSE
+ 1. libmagic (ext/fileinfo) see ext/fileinfo/libmagic/LICENSE df
  2. libmbfl (ext/mbstring) see ext/mbstring/libmbfl/LICENSE
  3. pcre2lib (ext/pcre)
  4. ext/standard crypt
